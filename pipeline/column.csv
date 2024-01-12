@@ -1,1 +1,6 @@
 dataset,resource,column,field
+local-nature-reserve,,REFERENCE,reference
+local-nature-reserve,,LNR_NAME,name
+local-nature-reserve,,STATUS,nature-reserve-status
+local-nature-reserve,,GEOMETRY,geometry
+local-nature-reserve,,GIS_DATE,entry-date
