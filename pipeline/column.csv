@@ -1,4 +1,5 @@
 dataset,resource,column,field
+local-nature-reserve,,wkt,geometry
 local-nature-reserve,,REFERENCE,reference
 local-nature-reserve,,LNR_NAME,name
 local-nature-reserve,,STATUS,nature-reserve-status
