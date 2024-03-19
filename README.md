@@ -1,4 +1,4 @@
-# Local nature reserve collection
+# Local nature reserve collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/local-nature-reserve/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/local-nature-reserve-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/local-nature-reserve-collection/actions/workflows/run.yml)
